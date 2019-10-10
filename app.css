@@ -13,6 +13,13 @@
     text-align: center;
     font-size: 200px;
     padding-bottom: 60px;
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 4px solid;
+    border-radius: 25px;
+    background-color: lemonchiffon;
+    
 }
 
 
@@ -22,17 +29,30 @@ width: 900px;
 height: auto;
 margin-left:auto;
 margin-right:auto;
+border: 4px solid;
+border-radius: 25px;
+margin-top: 30px;
   
 }
 #img-caption{
-
-    text-align: center;
+    justify-content: center;
+    width:900px;
+    font-size:50px;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom:40px;
     padding-top: 20px;
+    
     
 }
 #tribute-info{
     padding-top:10px;
+    width:900px;
+    border: 4px solid;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lemonchiffon;
 
 }
 #merch{
@@ -66,5 +86,7 @@ margin-right:auto;
     font-size: 85%;
     text-align: center;
     background-color: ghostwhite;
+    margin-top:20px;
+    
 
 }
