@@ -4,7 +4,7 @@ Fulfill the below user stories and get all of the tests to pass. Give it your ow
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
-User Story #3: I should see a divelement with a corresponding id="img-div".
+User Story #3: I should see a divelement with a corresponding id="img-div". 
 User Story #4: Within the img-divelement, I should see an imgelement with a corresponding id="image".
 User Story #5: Within the img-divelement, I should see an element with a corresponding id="img-caption"that contains textual content describing the image shown in img-div.
 User Story #6: I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.

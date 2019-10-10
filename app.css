@@ -1,10 +1,17 @@
-#html,
-#body{
-  max-width:625px;
-  background-color: aquamarine;
+#main{
+  display: block;
+  max-width:100%;
+  height: auto;
+  background: aquamarine;
 }
 
-
+#title{
+    display: block;
+    text-align: center;
+    line-height: 200px;
+    font-size: 200px;
+    padding-bottom: 60px;
+}
 
 
 #image{
