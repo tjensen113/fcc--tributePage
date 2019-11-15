@@ -4,3 +4,5 @@
 
 
 <img src="images/Screen Shot 2019-11-15 at 4.06.55 PM.png">
+
+<img src="images/Screen Shot 2019-11-15 at 4.07.15 PM.png">
